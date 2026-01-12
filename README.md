@@ -41,14 +41,6 @@ I orchestrate resilient systems where **security, scalability, and precision** c
 
 ---
 
-## 🏆 Achievements & Recognition
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=reignsi&theme=tokyonight&no-frame=true&margin-w=15" alt="reignsi trophies" />
-  </a>
-</p>
-
 ---
 
 ## 🧬 Engineering Philosophy
