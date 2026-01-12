@@ -1,6 +1,6 @@
-# 🚀 Systems & Security Architect
+# 🚀 Systems & Security Architect 
 
-### **Architecting Digital Fortresses | Bridging Abstraction & Infrastructure**
+### **Engineering Digital Fortresses | Bridging Abstraction & Infrastructure**
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=700&lines=High-Performance+Rust+Development;Secure+Infrastructure+Orchestration;Full-Stack+Django+Architectures;Cryptographic+Protocol+Hardening" alt="Typing SVG" />
@@ -41,11 +41,12 @@ I orchestrate resilient systems where **security, scalability, and precision** c
 
 ---
 
-## 📊 Performance Metrics
+## 🏆 Achievements & Recognition
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=reignsi&theme=tokyonight&hide_border=true" alt="reignsi's Streak" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reignsi&theme=tokyonight" alt="reignsi's Top Languages" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=reignsi&theme=tokyonight&no-frame=true&margin-w=15" alt="reignsi trophies" />
+  </a>
 </p>
 
 ---
@@ -53,7 +54,7 @@ I orchestrate resilient systems where **security, scalability, and precision** c
 ## 🧬 Engineering Philosophy
 
 > *“Precision begets resilience.”*
-> I advocate for **mathematically verifiable systems**, where every component—from cryptographic primitives to network packets—is intentional, observable, and defensible. My work merges **theory with pragmatism**, ensuring solutions are not only elegant but battle-tested for production.
+> I advocate for **mathematically verifiable systems**, where every component—from cryptographic primitives to network packets—is intentional, observable, and defensible. My work merges **theory with pragmatism**, ensuring solutions are not only elegant but battle-tested for production environments.
 
 ---
 
@@ -61,7 +62,7 @@ I orchestrate resilient systems where **security, scalability, and precision** c
 
 - **Zero-Knowledge Systems**: Exploring succinct proofs for privacy-preserving audits.
 - **Critical Path Rust**: Developing memory-safe, concurrent tools with zero-cost abstractions.
-- **Post-Quantum Readiness**: Implementing hybrid cryptographic schemes for long-term data shelf-life.
+- **Post-Quantum Readiness**: Implementing hybrid cryptographic schemes for long-term data protection.
 - **Autonomous Infrastructure**: Architecting self-healing systems with integrated anomaly detection.
 
 ---
@@ -70,10 +71,17 @@ I orchestrate resilient systems where **security, scalability, and precision** c
 
 I welcome high-level technical discussions on **cryptographic implementations, distributed systems challenges, and advanced infrastructure patterns.**
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reigns.developer@gmail.com)
-
+<p align="left">
+  <a href="mailto:reigns.developer@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reignsi&theme=tokyonight" alt="reignsi Summary" />
+</p>
 
 <p align="center">
   <i>"Complexity is the enemy of security; simplicity is the prerequisite for reliability."</i>
