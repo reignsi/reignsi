@@ -1,6 +1,6 @@
 # 🚀 Systems & Security Architect
 
-### **Engineering Digital Fortresses | Bridging Abstraction & Infrastructure**
+### **Architecting Digital Fortresses | Bridging Abstraction & Infrastructure**
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=700&lines=High-Performance+Rust+Development;Secure+Infrastructure+Orchestration;Full-Stack+Django+Architectures;Cryptographic+Protocol+Hardening" alt="Typing SVG" />
@@ -41,11 +41,11 @@ I orchestrate resilient systems where **security, scalability, and precision** c
 
 ---
 
-## 📊 Vital Statistics
+## 📊 Performance Metrics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reignsi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="reignsi's Github Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reignsi&layout=compact&langs_count=7&theme=tokyonight" alt="reignsi's Top Languages" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=reignsi&theme=tokyonight&hide_border=true" alt="reignsi's Streak" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reignsi&theme=tokyonight" alt="reignsi's Top Languages" />
 </p>
 
 ---
@@ -70,7 +70,8 @@ I orchestrate resilient systems where **security, scalability, and precision** c
 
 I welcome high-level technical discussions on **cryptographic implementations, distributed systems challenges, and advanced infrastructure patterns.**
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reigns.developer@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reigns.developer@gmail.com)
+
 
 ---
 
